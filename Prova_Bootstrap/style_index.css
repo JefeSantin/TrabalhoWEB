@@ -1,0 +1,50 @@
+body {
+    background-color: #9dc1e4;
+}
+#conteudo {
+    margin-top: 150px;
+}
+#imagem_nav {
+    width: 50px;
+    height: 50px;
+    margin-left:15px; 
+    margin-right: 0px;
+}
+#text_logo {
+    text-align: center;
+    color: #9dc1e4;
+    margin-top: 0px;
+    height: 1px;
+    text-align: left;
+    margin-right: 50px;
+    margin-left: 18px;
+}
+#menu {
+    background-color: rgba(191, 193, 196, 0.281);
+}
+#itens_menu {
+    font-size: larger;
+}
+#slogan {
+    height: 1px;
+    margin-top: 27px;
+    color: #9dc1e4;
+}
+#img_encanador {
+    height: 500px;
+    margin-left: 95px;
+}
+#balao {
+    margin-top: 50px;
+}
+#carossel {
+    align-items: flex-end;
+}
+#lista {
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: justify;
+}
+#title_lista {
+    text-align: center;
+}
